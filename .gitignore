@@ -11,5 +11,5 @@ node_modules
 .DS_Store
 
 # Build files
-dist
-/test/**/output.*
+# dist # TEMP: disabling so that I can install this while I'm waiting for a release
+/test/**/output
